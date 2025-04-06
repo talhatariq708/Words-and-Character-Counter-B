@@ -6,4 +6,4 @@ I didn't use any third party tool for help.
 In words you can see there's not "Counting" if you add "Space" at the start or end of the text.
 Also no included "Characters" if you add "Space" between 2 texts.
 # Characters
-In characters evverything is easily to count by sequence and it is very responsive.
+In characters evverything is easily to count by sequence and it is very responsive!
