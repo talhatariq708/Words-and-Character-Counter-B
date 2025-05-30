@@ -8,3 +8,4 @@ Also no included "Characters" if you add "Space" between 2 texts.
 # Characters
 In characters evverything is easily to count by sequence and it is very responsive!
 
+
